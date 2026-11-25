@@ -1,7 +1,7 @@
 ## Hi there 👋
-#My name is Jan Pazderník
+# My name is Jan Pazderník
 
-##Currently learning
+## Currently learning
 - C (school)
 - Github
 - Networking
